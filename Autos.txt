@@ -1,0 +1,14 @@
+0 chevrolet 2018 manual 456000.0 disponible C:\Users\mivil\Downloads\spark2018.png 0
+4026 chevrolet 2000 manual 20000.0 disponible C:\Users\mivil\Downloads\autos\chevrolet\tahoe2000.png 1
+4291 chevorlet 2000 manual 5500.0 nodisponible C:\Users\mivil\Downloads\autos\chevrolet\camaro2000.jpg 1
+1317 chevrolet 2005 automatico 35000.0 nodisponible C:\Users\mivil\Downloads\autos\chevrolet\silverado2005.png 1
+5584 mazda 2007 manual 35000.0 disponible C:\Users\mivil\Downloads\autos\mazda\mazda62007.png 0
+2579 nissan 2011 manual 45000.0 disponible C:\Users\mivil\Downloads\autos\nissan\nissan2011frontera.jpg 0
+3168 toyota 1999 automatico 35000.0 disponible C:\Users\mivil\Downloads\autos\toyota\toyota1999.png 0
+8561 renault 2016 automatico 29500.0 disponible C:\Users\mivil\Downloads\autos\renault\renault2016.png 0
+7641 renault 2016 manual 31500.0 disponible C:\Users\mivil\Downloads\autos\renault\renault20162.png 0
+9410 mazda 2019 manual 46800.0 disponible C:\Users\mivil\Downloads\autos\mazda\2019mazda6.png 0
+8254 toyota 2018 automatico 56200.0 disponible C:\Users\mivil\Downloads\autos\toyota\toyota2018.png 0
+7624 chevrolet 2017 manual 40500.0 disponible C:\Users\mivil\Downloads\autos\chevrolet\camaro2017.png 1
+2016 renault 2019 manual 10500.0 disponible C:\Users\mivil\Downloads\autos\renault\renault2019.png 0
+9393 nissan 2005 manual 12800.0 nodisponible C:\Users\mivil\Downloads\autos\nissan\nissan2005.png 1
